@@ -1,2 +1,2 @@
-const name = "Pange";
-const version = 1;
+const name = "Pang 22222";
+const version = 2;
